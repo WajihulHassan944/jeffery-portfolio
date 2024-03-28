@@ -3978,7 +3978,7 @@ blockquote {
   max-width: 480px;
   min-height: 480px;
   min-width: 480px;
-  background-image: linear-gradient(to right, var(--black) 20%, var(--transparent) 60%), url("https://assets-global.website-files.com/657acd3ac7be3a539ce3543a/657af1218fab8e6407a05ccd_Portrait.jpg");
+  background-image: linear-gradient(to right, var(--black) 20%, var(--transparent) 60%), url("imgone.png");
   object-fit: cover;
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
