@@ -69,7 +69,7 @@
                 <div class="nav-link-wrapper"><a href="contact.html" class="nav-link w-nav-link">Contact</a><a href="contact.html" class="nav-link move-down hide-on-tab w-nav-link">Contact</a></div>
                 </nav>
                 <div class="menu-button w-nav-button">
-                    <div class="burger-icon w-icon-nav-menu"></div>
+                    <i class="fa fa-bars w-icon-nav-menu" aria-hidden="true" style="color:cyan;"></i> 
                 </div>
         </div>
     </div>
@@ -82,7 +82,7 @@
                 <h1 data-w-id="2c682d12-c9c7-ba44-428c-e90b0c990b00" style="opacity:0; margin-bottom:50px;" class="hero-title">HELLO! <span class="italics-thin font-primary">I&#x27;M</span> A <br/>DATA <span class="italics-thin font-primary">ANALYST</span> </h1>
                 <p data-w-id="2c682d12-c9c7-ba44-428c-e90b0c990b02"
                     style="opacity:0; margin-bottom:150px;" class="max-width-520px">Using advanced analytics and innovative methods, I'm committed to delivering actionable insights that fuel impactful change.</p>
-               
+                <div class="hero-image"></div>
             </div>1
             <div data-w-id="b951fc99-ac91-072c-2ab8-3bd6a86bf535" class="home-trigger"></div>
             <div class="space-112px"></div>

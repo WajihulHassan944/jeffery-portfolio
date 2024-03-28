@@ -31,7 +31,7 @@
 
 <div data-animation="default" class="navbar w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="9b24f31a-aadc-0c5b-d5cf-68f3cdfe32cf" role="banner" data-duration="400" data-doc-height="1">
 <div class="container padding-10 overflow w-container">
-<a href="/" class="logo-link-wrapper w-nav-brand" style="font-size:25px;font-weight:700;">Jeffrey F.</a>
+<a href="#" class="logo-link-wrapper w-nav-brand" style="font-size:25px;font-weight:700; color:cyan;">Jeffrey F.</a>
 
 
  <nav
@@ -43,7 +43,7 @@
                 </nav>
 				
 
-<div class="menu-button w-nav-button"><div class="burger-icon w-icon-nav-menu"></div></div></div></div>
+<div class="menu-button w-nav-button">  <i class="fa fa-bars " aria-hidden="true" style="color:cyan;"></i> </div></div></div>
 
 <div class="space-112px"></div><div class="space-64px"></div>
 
